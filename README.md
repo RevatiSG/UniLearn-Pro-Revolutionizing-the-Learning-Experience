@@ -59,4 +59,7 @@ UniLearn Pro's unique value lies in its comprehensive approach, combining academ
     *   Defined the product vision and roadmap, prioritizing features based on user value and business goals.
     *   Collaborated closely with the development team to ensure successful product execution.
     *   Gathered and analyzed user feedback to drive continuous product improvement.
+ 
+## About the Author
 
+Revati Ganorkar | Product Enthusiast | [LinkedIn](https://www.linkedin.com/in/revati-ganorkar)
